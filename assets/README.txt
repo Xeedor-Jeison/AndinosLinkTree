@@ -1,0 +1,1 @@
+Reemplaza este archivo por logo.png
